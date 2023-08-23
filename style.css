@@ -1,0 +1,11 @@
+body {
+  background-color: #EFD6CE;
+}
+
+.btn {
+  transition: .3s;
+}
+
+.btn:hover {
+  transform: translate(-2px, -2px);
+}
